@@ -1,0 +1,16 @@
+transacao_id,data_venda,cliente_nome,valor_venda,status
+1,2023-01-01, Gean Machado ,"R$ 1500,00",pago
+2,01/02/2023,gean machado,1500,PAGO
+2,2023-01-02,GEAN MACHADO,"1.500,00",Pago 
+4,2023-13-01,William Silva,230.50,cancelado
+5,2023.05.10,WILLIAM SILVA,-50.00,CANCELADO
+6,2023-01-06, ana souza ,0,pendente
+7,,Ana Souza,890,PENDENTE
+8,2023-01-08,Carlos_Oliveira,"R$ 1.200,50", Pago
+9,09-01-2023,carlos oliveira,NULL,PAGO
+10,2023-01-10,  MARIA   SANTOS  ,450,cancelado
+11,2023-01-11,M. Santos,500.00,pago
+12,2023-01-12,João Silva,780.00,pago
+13,2023-01-13,joão  silva,900,pago
+14,2023-01-14,J. Silva,1000,pago
+15,2023-01-15,,2000,pago
